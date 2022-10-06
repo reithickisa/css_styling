@@ -1,0 +1,143 @@
+body{
+  margin:0;
+  text-align: center;
+  /*font-family: Helvetica;*/
+  font-family: 'Merriweather', serif;
+  font-size: 1rem;
+  font-weight:bold;
+}
+h1{
+  color: #66BFBF;
+  margin-top: 50px;
+  font-size: 4.025rem;
+  line-height: 2rem;
+  font-family: 'Sacramento';
+}
+h2{
+  color: #66BFBF;
+  font-size: 2.0rem;
+  padding:10px;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  color: #40514E;
+}
+.skills{
+  line-height: 2rem;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+
+}
+.aholic{
+  font-style: italic;
+  text-decoration:underline;
+}
+.Bottom_cloud{
+  position: absolute;
+  right: 80%;
+}
+.Top_cloud{
+  position: relative;
+  left: 30%;
+  top: 0px;
+}
+.Mountain{
+  position: relative;
+
+  height: 500px;
+  width: 700px;
+}
+
+.Development{
+  height: 10%;
+  width: 10%;
+  float: left;
+  padding-right: 30px;
+}
+.profile_photo{
+  height: 15%;
+  width: 15%;
+}
+
+.profile{
+  width: 50%;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.Wantrepreneur{
+  height: 10%;
+  width: 10%;
+  float: right;
+  padding-left: 30px;
+}
+
+.middle-container{
+    margin-bottom: 50px;
+    line-height: 2rem;
+}
+.contact-me{
+  line-height: 3rem;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  padding: 0 0 2% 0;
+}
+.top_container{
+  background-color: #E4F9F5;
+  padding-top: 2%;
+}
+
+.footer{
+
+  color: #EAF6F6;
+  padding-bottom: 2rem;
+}
+.footer-link{
+
+  padding-top: 2rem;
+  text-decoration: none;
+  color: #11999E;
+  display: inline-block;
+  width : 5rem;
+}
+.btn {
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 21px;
+  background: #0d5eff;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+hr{
+  border-style:dotted none none none;
+  width: 150px;
+  border-width: 10px;
+  border-color: #EAF6F6;
+  height: 10px;
+}
+a:hover{
+  color: #ffffff;
+}
